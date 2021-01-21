@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053669858721",
+    "project_id": "cucok-97904",
+    "storage_bucket": "cucok-97904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053669858721:android:3613796f25ae3cf9007fe0",
+        "android_client_info": {
+          "package_name": "com.example.cucok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053669858721-p357gkm03fc71007q2v0lpde2u6d1c3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cucok",
+            "certificate_hash": "e754769de215494ac5cc6b21943dbd5412066e66"
+          }
+        },
+        {
+          "client_id": "1053669858721-5eemelhd9jh9lj1mah365g7mhrqacfee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4RhkgJINw4J0cHb0eI6wQqN8oWH2EBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053669858721-5eemelhd9jh9lj1mah365g7mhrqacfee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
